@@ -63,6 +63,9 @@ Note: if you get an error at this step, see FAQ below.
    ```
    rvm install 2.6.1
    rvm use 2.6.1 --default
+   
+   https://stackoverflow.com/questions/39643791/no-command-rvm-found-but-there-are-20-similar-onesm vr
+    ndoufnotrvm  errors: close and reopen ubuntu terminal   
    ```
 
 10. Let's install the bundler gem:
