@@ -124,6 +124,8 @@ Note: if you get an error at this step, see FAQ below.
 
     ```
     source ~/.bashrc
+    
+    1.  For error "wslpath: Invalid argument" use: wslpath ~/.bashrc
     ```
   
   - Next, install NodeJS:
